@@ -1,6 +1,9 @@
 body {
-	background-color: #56B23E;
-	color: #DEA8D3;
+  text-align: center;
+  background: url("http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/5/26/2/cw_set-art-multi-cupcakes_s4x3.jpg"); #000;
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
 
 title {
