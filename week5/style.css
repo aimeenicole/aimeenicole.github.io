@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: white;
+  color: #000;
+  font-family: 'Share', cursive;
+  margin: 0px;
+}
+
+header {  
+	overflow: auto;
+    position: relative;
+}
+
+nav {
+	font-size: 1.8em;
+	float: right;
+}
+nav a {
+	text-decoration: none;
+	color: #000000;
+	margin: 1.2em;
+	border-bottom: 1px solid black;
+	display: inline-block;
+}
+
+h1 {
+	float: left;
+    border-bottom: 2px solid black;
+    display: inline-block;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+
+}
+
+.wrapper {
+	margin: 100px auto; 
+	width: 80%;
+	position: relative;
+}
+
+.wrapper img {
+	width: 31.33%;
+	margin: 1%;
+	float: left;
+	display: block;
+
+}
+
